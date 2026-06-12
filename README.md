@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Aryan%20Kumar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20CSE%20@%20BIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Aryan%20Kumar&fontSize=60&fontColor=00FF9C&animation=twinkling&fontAlignY=35&desc=%3C%20Full%20Stack%20Developer%20%2F%2F%20CSE%20%40%20BIT%20Bangalore%20%3E&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 
 <a href="https://www.linkedin.com/in/aryan-jaiswal-a68758295">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,177 +12,213 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://www.geeksforgeeks.org/profile/aryanjaisf49h">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/aryanjaiswal20">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+<a href="https://github.com/Aryan-jaiswa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Building+Scalable+REST+APIs+%26+Microservices;400%2B+DSA+Problems+Solved+%7C+LeetCode+%E2%80%A2+GFG+%E2%80%A2+CodeChef;Hackathon+Finalist+%40+BMSC+Hackaphasia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=const+developer+%3D+%7B+name%3A+%22Aryan+Kumar%22+%7D%3B;Building+scalable+REST+APIs+%26+microservices+%E2%9A%99%EF%B8%8F;MERN+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+AI+integrations;400%2B+DSA+problems+solved+%7C+algorithms+%26+optimization;Hackaphasia+Finalist+%F0%9F%8F%86+%7C+Always+shipping" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Animesh-Tomar/Animesh-Tomar/master/svg/Bottom_down.svg" width="100%"/>
+## ⚡ whoami
 
-## 🚀 About Me
+```python
+class Aryan:
+    def __init__(self):
+        self.name        = "Aryan Kumar"
+        self.role        = "Full Stack Developer"
+        self.education   = "B.E. CSE @ Bangalore Institute of Technology (8.76 CGPA)"
+        self.stack       = ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"]
+        self.specialty   = "RESTful microservices, scalable backend architecture, API design"
+        self.competitive = "400+ DSA problems | LeetCode • GFG • CodeChef"
+        self.currently   = "Integrating AI (Gemini, Perplexity) into full-stack products"
 
-```yaml
-name: "Aryan Kumar"
-role: "Full Stack Developer | CSE Undergrad"
-education: "B.E. in Computer Science Engineering @ Bangalore Institute of Technology"
-cgpa: "8.76 / 10"
-focus: ["Full Stack Development", "REST APIs", "Microservices", "DSA"]
-currently_learning: "AI/ML integrations in full-stack systems"
-fun_fact: "Solved 400+ DSA problems and still hungry for more 🔥"
+    def get_in_touch(self):
+        return "aryanjaiswal2018@gmail.com 📬"
+
+me = Aryan()
+print(f"Status: shipping production-grade full-stack systems 🚀")
 ```
 
-<img src="https://raw.githubusercontent.com/Animesh-Tomar/Animesh-Tomar/master/svg/Bottom_down.svg" width="100%"/>
+> 🧠 I architect backend systems the way I solve DSA problems — break it down, optimize for scale, and ship clean. From microservice-based e-commerce platforms to AI-powered health analysis tools, I build software that's modular, secure, and production-ready.
 
-## 🛠️ Tech Arsenal
+<br/>
+
+## 🛠️ Tech Stack
+
+<table align="center" border="0">
+<tr>
+<td valign="top" width="50%">
+
+**💻 Languages**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🎨 Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Backend & Databases**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🔧 Tools & DevOps**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**🤖 ML / Data**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### ML / Data Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Animesh-Tomar/Animesh-Tomar/master/svg/Bottom_down.svg" width="100%"/>
+<br/>
 
-## 🔥 Featured Projects
+## 📂 Featured Builds
 
-<div align="center">
+<table align="center" border="0" width="100%">
+<tr>
+<td width="100%">
 
-### 🛒 [Ecoretail](https://github.com/Aryan-jaiswa/ecoretail)
-**Full-Stack Microservices E-commerce / Supply-Chain Platform**
-
+### 🛒 [Ecoretail](https://github.com/Aryan-jaiswa/ecoretail) — Full-Stack Microservices E-Commerce / Supply-Chain Platform
 `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `REST APIs` `Microservices`
 
-> Architected a RESTful microservice-style platform with modular, independently deployable backend services. Secure auth middleware, input validation, optimized MongoDB schemas with indexing for large supply-chain datasets, and KPI dashboards for operational observability.
+```diff
++ Modular, independently deployable backend microservices for reliability & scale
++ Secure Node.js/Express backend - auth middleware, input validation, SDLC best practices
++ Optimized MongoDB schemas with indexing for large supply-chain datasets
++ KPI dashboards for observability & data-driven decisions
+```
 
-<a href="https://github.com/Aryan-jaiswa/ecoretail">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-jaiswa&repo=ecoretail&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%">
 
----
-
-### 🌐 [UnisoNetwork](https://github.com/Aryan-jaiswa/UnisoNetwork)
-**Scalable Social Networking Platform**
-
+### 🌐 [UnisoNetwork](https://github.com/Aryan-jaiswa/UnisoNetwork) — Scalable Social Networking Platform
 `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
 
-> Scalable RESTful APIs for user management, authentication, and social interactions with JWT-based security. ACID-compliant database models for consistency, plus responsive, modular frontend components.
+```diff
++ Scalable RESTful APIs for user management, auth & social interactions
++ JWT-based security across all endpoints
++ ACID-compliant database models for consistency & transaction reliability
++ Responsive, modular UI components integrated end-to-end
+```
 
-<a href="https://github.com/Aryan-jaiswa/UnisoNetwork">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-jaiswa&repo=UnisoNetwork&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%">
 
----
-
-### 🩺 [MedAI](https://github.com/Aryan-jaiswa/MedAI)
-**AI-Powered Health Analysis Platform**
-
+### 🩺 [MedAI](https://github.com/Aryan-jaiswa/MedAI) — AI-Powered Health Analysis Platform
 `Next.js` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Google Gemini API` `Perplexity API`
 
-> Full-stack application integrating AI services with optimized PostgreSQL queries. NLP-based report analysis using Gemini and Perplexity APIs, with a modular architecture built for scalable feature deployment.
+```diff
++ Full-stack app integrating Gemini & Perplexity APIs for NLP-based report analysis
++ Modular backend architecture for scalable feature deployment
++ Optimized PostgreSQL queries for availability & performance
++ Built on stakeholder-driven requirements gathering
+```
 
-<a href="https://github.com/Aryan-jaiswa/MedAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-jaiswa&repo=MedAI&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Animesh-Tomar/Animesh-Tomar/master/svg/Bottom_down.svg" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-jaiswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-jaiswa&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-jaiswa&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-jaiswa&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Animesh-Tomar/Animesh-Tomar/master/svg/Bottom_down.svg" width="100%"/>
-
-## 🏆 Achievements & Certifications
-
-- 🧩 **400+ DSA Problems Solved** across LeetCode, GeeksforGeeks & CodeChef — arrays, trees, graphs, DP, sorting & searching (Java/C++)
-- 🏅 **Hackaphasia Finalist** — BMSC Hackaphasia Hackathon
-- 💻 **Hackathon Participant** — Hackaphasia, Ambition, Walmart Sparkathon
-- 📜 **DSA with Java Certification** — Infosys Springboard
-- 📜 **Software Engineering Certification** — Infosys Springboard (SDLC, Agile, industry practices)
-
-## 🌱 Beyond Code
-
-- 👥 **Member, Google Developer Student Club (GDSC)** — tech workshops, open-source collaboration & hackathons
-
-<img src="https://raw.githubusercontent.com/Animesh-Tomar/Animesh-Tomar/master/svg/Bottom_down.svg" width="100%"/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📫 Let's Connect
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-jaiswa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-jaiswa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-jaiswa&theme=react&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-jaiswa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 🧩 **400+ DSA Problems Solved** | LeetCode, GeeksforGeeks & CodeChef — arrays, trees, graphs, DP, sorting & searching in Java/C++ |
+| 🏅 **Hackaphasia Finalist** | BMSC Hackaphasia Hackathon — built a scalable project under strict time constraints |
+| 💻 **Hackathon Competitor** | Hackaphasia • Ambition • Walmart Sparkathon — full-stack apps under deadline pressure |
+| 📜 **DSA with Java** | Infosys Springboard — arrays, linked lists, stacks, queues & algorithms |
+| 📜 **Software Engineering** | Infosys Springboard — SDLC, Agile methodologies, industry practices |
+| 👥 **GDSC Member** | Tech workshops, open-source collaboration & hackathons |
+
+<br/>
+
+<div align="center">
+
+## 📡 Let's Build Something
+
+```bash
+$ echo "Open to SDE Internships & Full-Stack roles" | mail aryanjaiswal2018@gmail.com
+```
 
 <a href="https://www.linkedin.com/in/aryan-jaiswal-a68758295">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Let's_Connect-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:aryanjaiswal2018@gmail.com">
-  <img src="https://img.shields.io/badge/Say_Hi-aryanjaiswal2018%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email_Me-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aryan-jaiswa&style=for-the-badge&color=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=Aryan-jaiswa&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>

@@ -41,7 +41,7 @@ class Aryan:
         self.education   = "B.E. CSE @ Bangalore Institute of Technology (8.76 CGPA)"
         self.stack       = ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"]
         self.specialty   = "RESTful microservices, scalable backend architecture, API design"
-        self.competitive = "400+ DSA problems | LeetCode • GFG • CodeChef"
+        self.competitive = "600+ DSA problems | LeetCode • GFG • CodeChef"
         self.currently   = "Integrating AI (Gemini, Perplexity) into full-stack products"
 
     def get_in_touch(self):

@@ -206,7 +206,7 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 $ echo "Open to SDE Internships & Full-Stack roles" | mail aryanjaiswal2018@gmail.com
 ```
 
-<a href="https://www.linkedin.com/in/aryan-jaiswal-a68758295">
+<a href="https://www.linkedin.com/in/aryan-kumar-a68758295">
   <img src="https://img.shields.io/badge/Let's_Connect-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:aryanjaiswal2018@gmail.com">

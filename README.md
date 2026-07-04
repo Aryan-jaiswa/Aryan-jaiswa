@@ -24,7 +24,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=const+developer+%3D+%7B+name%3A+%22Aryan+Kumar%22+%7D%3B;Building+scalable+REST+APIs+%26+microservices+%E2%9A%99%EF%B8%8F;MERN+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+AI+integrations;400%2B+DSA+problems+solved+%7C+algorithms+%26+optimization;Hackaphasia+Finalist+%F0%9F%8F%86+%7C+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=const+developer+%3D+%7B+name%3A+%22Aryan+Kumar%22+%7D%3B;Building+scalable+REST+APIs+%26+microservices+%E2%9A%99%EF%B8%8F;MERN+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+AI+integrations;600%2B+DSA+problems+solved+%7C+algorithms+%26+optimization;Hackaphasia+Finalist+%F0%9F%8F%86+%7C+Always+shipping" alt="Typing SVG" />
 </a>
 
 </div>

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Aryan%20Kumar&fontSize=60&fontColor=00FF9C&animation=twinkling&fontAlignY=35&desc=%3C%20Full%20Stack%20Developer%20%2F%2F%20CSE%20%40%20BIT%20Bangalore%20%3E&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 
-<a href="https://www.linkedin.com/in/aryan-jaiswal-a68758295">
+<a href="https://www.linkedin.com/in/aryan-kumar-a68758295">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:aryanjaiswal2018@gmail.com">

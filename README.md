@@ -189,7 +189,7 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 
 | | |
 |---|---|
-| 🧩 **400+ DSA Problems Solved** | LeetCode, GeeksforGeeks & CodeChef — arrays, trees, graphs, DP, sorting & searching in Java/C++ |
+| 🧩 **600+ DSA Problems Solved** | LeetCode, GeeksforGeeks & CodeChef — arrays, trees, graphs, DP, sorting & searching in Java/C++ |
 | 🏅 **Hackaphasia Finalist** | BMSC Hackaphasia Hackathon — built a scalable project under strict time constraints |
 | 💻 **Hackathon Competitor** | Hackaphasia • Ambition • Walmart Sparkathon — full-stack apps under deadline pressure |
 | 📜 **DSA with Java** | Infosys Springboard — arrays, linked lists, stacks, queues & algorithms |

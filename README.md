@@ -41,7 +41,7 @@ class Aryan:
         self.education   = "B.E. CSE @ Bangalore Institute of Technology (8.76 CGPA)"
         self.stack       = ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"]
         self.specialty   = "RESTful microservices, scalable backend architecture, API design"
-        self.competitive = "600+ DSA problems | LeetCode • GFG • CodeChef"
+        self.competitive = "700+ DSA problems | LeetCode • GFG • CodeChef"
         self.currently   = "Integrating AI (Gemini, Perplexity) into full-stack products"
 
     def get_in_touch(self):
@@ -264,7 +264,7 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 | | |
 |---|---|
 | 🧩 **700+ DSA Problems Solved** | LeetCode, GeeksforGeeks ,  CodeChef , Codeforces — arrays, trees, graphs, DP, sorting & searching in Java/C++ |
-| 🏅 ** Flipkart GirdLock SemiFinalist** | Flipkart GridLock Hackathon 2026 - comes under Top 100 in India |
+| 🏅 **Flipkart GirdLock SemiFinalist** | Flipkart GridLock Hackathon 2026 - comes under Top 100 in India |
 | 🏅 **Hackaphasia Finalist** | BMSC Hackaphasia Hackathon — built a scalable project under strict time constraints |
 | 💻 **Hackathon Competitor** | Hackaphasia • Ambition • Walmart Sparkathon — full-stack apps under deadline pressure |
 | 📜 **DSA with Java** | Infosys Springboard — arrays, linked lists, stacks, queues & algorithms |

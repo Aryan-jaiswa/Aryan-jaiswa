@@ -118,14 +118,15 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 <tr>
 <td width="100%">
 
-### 🛒 [Ecoretail](https://github.com/Aryan-jaiswa/ecoretail) — Full-Stack Microservices E-Commerce / Supply-Chain Platform
-`React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `REST APIs` `Microservices`
+### 🚦 [AchuK](https://github.com/Aryan-jaiswa/AchuK) — AI-Powered Traffic Violation Detection & Enforcement
+
+`Python` `FastAPI` `YOLO` `OpenCV` `OCR` `React` `Computer Vision`
 
 ```diff
-+ Modular, independently deployable backend microservices for reliability & scale
-+ Secure Node.js/Express backend - auth middleware, input validation, SDLC best practices
-+ Optimized MongoDB schemas with indexing for large supply-chain datasets
-+ KPI dashboards for observability & data-driven decisions
++ Built an end-to-end computer vision pipeline using specialized YOLO models for helmet, seatbelt, triple-riding & license-plate detection
++ Implemented temporal rule-based analysis for red-light, stop-line, wrong-side driving & illegal parking violations
++ Developed Contextual Violation Confidence Scoring (CVCS) using detection, lighting, resolution, blur & camera reliability signals
++ Generated tamper-evident enforcement evidence with annotated frames, OCR plate snapshots, metadata & SHA-256 hashing
 ```
 
 </td>
@@ -134,14 +135,51 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 <tr>
 <td width="100%">
 
-### 🌐 [UnisoNetwork](https://github.com/Aryan-jaiswa/UnisoNetwork) — Scalable Social Networking Platform
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
+### 🛒 [Ecoretail](https://github.com/Aryan-jaiswa/ecoretail) — Full-Stack Microservices E-Commerce / Supply-Chain Platform
+
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `REST APIs` `Microservices`
 
 ```diff
-+ Scalable RESTful APIs for user management, auth & social interactions
-+ JWT-based security across all endpoints
-+ ACID-compliant database models for consistency & transaction reliability
-+ Responsive, modular UI components integrated end-to-end
++ Modular, independently deployable backend microservices for reliability & scale
++ Secure Node.js/Express backend with authentication, validation & RESTful APIs
++ Optimized MongoDB schemas and data access for supply-chain operations
++ KPI dashboards for sustainability, logistics & data-driven decision making
+```
+
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%">
+
+### 🤖 [AI-InterHelp](https://github.com/Aryan-jaiswa/AI-InterHelp-App) — AI-Powered Interview Preparation & Resume Platform
+
+`React` `Node.js` `Express.js` `MongoDB` `Gemini AI` `JWT` `Docker`
+
+```diff
++ Built an AI-powered interview platform generating role-specific technical/behavioral questions & skill-gap analysis
++ Integrated Gemini structured outputs to generate personalized day-by-day interview preparation roadmaps
++ Developed an ATS-friendly resume generator using AI-generated HTML and Puppeteer-based PDF rendering
++ Implemented JWT authentication, Docker Compose deployment & GitHub Actions CI/CD for secure and reproducible workflows
+```
+
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%">
+
+
+
+### 🌐 [UnisoNetwork](https://github.com/Aryan-jaiswa/UnisoNetwork) — Scalable University Social Networking Platform
+
+`React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Drizzle ORM` `JWT`
+
+```diff
++ Built a full-stack university networking platform with groups, forums, events & internship discovery
++ Developed modular REST APIs with JWT authentication, authorization & input validation
++ Designed relational data models for users, groups, memberships, forums, events & applications
++ Implemented real-time notifications with WebSockets and SMS/email integrations
 ```
 
 </td>
@@ -151,13 +189,48 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 <td width="100%">
 
 ### 🩺 [MedAI](https://github.com/Aryan-jaiswa/MedAI) — AI-Powered Health Analysis Platform
+
 `Next.js` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Google Gemini API` `Perplexity API`
 
 ```diff
-+ Full-stack app integrating Gemini & Perplexity APIs for NLP-based report analysis
-+ Modular backend architecture for scalable feature deployment
-+ Optimized PostgreSQL queries for availability & performance
-+ Built on stakeholder-driven requirements gathering
++ Full-stack AI platform integrating Gemini & Perplexity APIs for NLP-based medical report analysis
++ Built modular backend services for report processing, AI inference & multilingual health summaries
++ Implemented PDF upload and text-processing workflows for automated medical report analysis
++ Designed PostgreSQL-backed APIs for persistent reports, user data & scalable application workflows
+```
+
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%">
+
+### 🛡️ [PayGuard-Fraud-Detection](https://github.com/Aryan-jaiswa/PayGuard-Fraud-Detection) — Real-Time UPI Fraud Detection Platform
+
+`Python` `FastAPI` `React` `XGBoost` `Scikit-learn` `SHAP` `Docker`
+
+```diff
++ Built a real-time UPI fraud detection pipeline combining Isolation Forest anomaly detection with XGBoost fraud classification
++ Engineered behavioral transaction features including velocity, location mismatch & deviation from historical patterns
++ Integrated SHAP-based explainability to surface feature-level reasoning behind fraud risk predictions
++ Developed FastAPI + React dashboard for transaction monitoring, risk scoring, fraud decisions & model insights
+```
+
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td width="100%">
+  
+### 🧠 [AI_OS](https://github.com/Aryan-jaiswa/AI_OS) — NOVA: Agentic AI Life Operating System
+
+`Next.js` `FastAPI` `LangGraph` `LangChain` `Llama-3` `OpenAI` `Gmail API` `Google Calendar API`
+
+```diff
++ Built an autonomous agentic AI system using LangGraph ReAct agents for multi-step reasoning & tool execution
++ Developed FastAPI gateway with asynchronous SSE streaming for real-time AI responses and concurrent requests
++ Implemented RAG-based memory using vectorized notes, files & interactions with state checkpointing
++ Integrated Gmail & Google Calendar APIs to automate email workflows, scheduling, contextual retrieval & actions
 ```
 
 </td>
@@ -165,6 +238,7 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 </table>
 
 <br/>
+
 
 ## 📊 GitHub Analytics
 
@@ -189,7 +263,8 @@ print(f"Status: shipping production-grade full-stack systems 🚀")
 
 | | |
 |---|---|
-| 🧩 **600+ DSA Problems Solved** | LeetCode, GeeksforGeeks & CodeChef — arrays, trees, graphs, DP, sorting & searching in Java/C++ |
+| 🧩 **700+ DSA Problems Solved** | LeetCode, GeeksforGeeks ,  CodeChef , Codeforces — arrays, trees, graphs, DP, sorting & searching in Java/C++ |
+| 🏅 ** Flipkart GirdLock SemiFinalist** | Flipkart GridLock Hackathon 2026 - comes under Top 100 in India |
 | 🏅 **Hackaphasia Finalist** | BMSC Hackaphasia Hackathon — built a scalable project under strict time constraints |
 | 💻 **Hackathon Competitor** | Hackaphasia • Ambition • Walmart Sparkathon — full-stack apps under deadline pressure |
 | 📜 **DSA with Java** | Infosys Springboard — arrays, linked lists, stacks, queues & algorithms |
